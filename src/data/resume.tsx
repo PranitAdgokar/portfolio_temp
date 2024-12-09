@@ -115,7 +115,7 @@ export const DATA = {
     {
       title: "Ctrl Chat",
       href: "https://ctrl-chat.vercel.app/",
-      dates: " June 2024 - Aug 2024",
+
       active: true,
       description:
         "Developed a chat application with end-to-end encryption and a focus on privacy, in collaboration with Pranav Bhatkar.",
