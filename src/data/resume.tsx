@@ -140,6 +140,7 @@ export const DATA = {
       image: "/gpx.png",
       video: "",
     },
+    //image name changes
     {
       title: "Authenticating system",
       href: "https://magicui.design",
