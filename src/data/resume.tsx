@@ -143,7 +143,7 @@ export const DATA = {
     //image name changes
     {
       title: "Authenticating system",
-      href: "https://magicui.design",
+      href: "#",
       active: true,
       description:
         "Developed a secure authentication system featuring user login, registration, and token-based access using JWT.",
@@ -159,7 +159,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "#",
           icon: <Icons.globe className="size-3" />,
         },
         {
