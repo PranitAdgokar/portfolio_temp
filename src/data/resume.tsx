@@ -137,7 +137,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/gpx.png",
+      image: "/gpx_project.png",
       video: "",
     },
     //image name changes
@@ -168,7 +168,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/auth.png",
+      image: "/auth_project.png",
       video: "https://cdn.magicui.design/bento-grid.mp4",
     },
     // {
