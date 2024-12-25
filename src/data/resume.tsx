@@ -151,7 +151,7 @@ export const DATA = {
         "React.js",
         "Javascript",
         "JWT",
-        "PostgreSQL",
+        "MongoDB",
         "TailwindCSS",
         "Shadcn UI",
         "Magic UI",
